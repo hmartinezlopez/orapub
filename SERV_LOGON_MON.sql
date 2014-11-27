@@ -3,7 +3,7 @@ AFTER LOGON ON DATABASE
 declare
 -- v0.1 Initial version by yvelik on 04/06/2014
 -- v0.2 Personalitation version by hmartinezlopez on 26/11/2014 
--- V0.3
+-- V0.7
 -- The trigger prevents default TNS service name to be used by clients to make sure that specific services are in use. Is specifically important to use custom service names in a RAC configuration.
 -- The trigger allows exceptions to be introduced on host by host basis. To allow connections to the default host please insert a record to the serv_login_hosts_ext table
 -- Information about all sessions that used the default DB service name is logged under serv_login_hosts_ext table
