@@ -9,8 +9,7 @@
 -- AND TOTALWORK != 0 
 -- AND SOFAR <> TOTALWORK;
 
-
-
+--
 
 -- https://plus.google.com/u/0/107075205411714880234/posts/L6QFgvCuGjL
 --
